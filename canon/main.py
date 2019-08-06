@@ -38,8 +38,10 @@ def get_members(team):
   build_member_list(team, [], members)
   return members
 
+
 def exercise1(person, people):
   return get_teams_for_person(person, people)
+
 
 def main():
     print("Task 1:")

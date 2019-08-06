@@ -13,7 +13,7 @@ shows your programming facility, we will be happy to review it instead.
 
 # Tasks
 
-Launchpad uses "Teams" to group people.  People may be members of teams, and
+------ uses "Teams" to group people.  People may be members of teams, and
 teams may also be members of teams.  Because teams can be used in most ways
 that People can, Teams and People are both represented through the Person
 class.
